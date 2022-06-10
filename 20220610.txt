@@ -85,7 +85,6 @@
 //{"group":"redirect","channels":[
 //{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZqMzY1Lm1sLzAvdHYudHh0"]}
 //]}
-//
 {"group": "临时源一","channels": [{"name":"凤凰中文","urls":["http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1"]},
 {"name":"凤凰资讯","urls":["http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1"]},
 {"name":"中国天气","urls":["http://zterr.hvs.fj.chinamobile.com:6060/PLTV/88888888/224/3221227210/index.m3u8?servicetype=1"]},
@@ -806,7 +805,6 @@
 {"name":"湖南金鹰卡通","urls":["http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8"]}
 ]},
 #
-
 ## 广大侠 资源网采集
 #官方解析
 //{"key":"8090资源","name":"8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":0,"quickSearch":0},
