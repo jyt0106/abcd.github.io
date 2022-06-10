@@ -41,18 +41,18 @@
 {"key":"腾讯官网","name":"腾讯官网","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0}
 
 ],
-"lives":[
-{
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "网上自己找"
-          ]
-        }
-      ]
-    }
+  "lives": [ {
+		"group": "CCTV",
+		"channels": [{
+			"name": "CCTV-1",
+			"urls": [
+"http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8",  
+"http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225918/index.m3u8",
+"http://117.148.179.160/PLTV/88888888/224/3221231468/index.m3u8", "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=hEQbBsN1cd87ZS1LRd3TXf5LH0Ql8IEhnGwO%2B75IdBOPtEbjPb9jhieBCtTUAr9dv5ZbZ4EessCEDFzP4cGUE71B0UFe79pybuMPoFbNny1A5gXy7m59YoE1AMvcRYl8Pvf6NHAGt8pY%2F1XkpmVDXg%3D%3D%3A20180910182102%2C60D21CD359DA%2C124.129.96.17%2C20180910182102%2C10000100000000050000000002171815%2C0B6786BF2451D83B45BD7E85EAB1B8F7%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND"
+]
+		}, {
+			"name": "CCTV-2",
+			"urls": ["http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8", "http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8?s
 ],
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
