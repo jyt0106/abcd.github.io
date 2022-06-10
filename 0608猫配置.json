@@ -41,7 +41,7 @@
 {"key":"腾讯官网","name":"腾讯官网","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0}
 
 ],
-  "lives": [
+"lives": [
 //proxy
 //{"group":"redirect","channels":[
 //{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZqMzY1Lm1sLzAvdHYudHh0"]}
