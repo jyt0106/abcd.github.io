@@ -116,7 +116,6 @@ https://github.com/jyt0106/abcd.github.io/blob/main/0608%E7%8C%AB%E9%85%8D%E7%BD
 			"urls": ["http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8",
 "http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8"]
 		}
-			]}, 
 ],
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
