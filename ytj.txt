@@ -2,7 +2,8 @@
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider": "http://fj365.ml/bb/xb.txt?raw=true",
 "sites":[
-//{"key":"csp_xpath_saohuotv","name":"骚火电影(XP)022/5/29更新接口","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/6/saohuotv2.json"},
+//https://github.com/jyt0106/abcd.github.io/blob/main/0608%E7%8C%AB%E9%85%8D%E7%BD%AE.jar
+{"key":"csp_xpath_saohuotv","name":"骚火电影(XP)022/5/29更新接口","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/6/saohuotv2.json"},
 {"key":"csp_biubiu_骚火电影","name":"🥒骚火电影(XB)022/5/29更新接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/骚火电影.json"},
 {"key":"csp_biubiu_COKEMV","name":"🥒COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/COKEMV.json"},
 {"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"🥒真不卡影院(不支持搜索)(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://fj365.ml/bb/真不卡影院(不支持搜索).json"},
