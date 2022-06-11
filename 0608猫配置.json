@@ -41,8 +41,7 @@ https://github.com/jyt0106/abcd.github.io/blob/main/0608%E7%8C%AB%E9%85%8D%E7%BD
 {"key":"腾讯官网","name":"腾讯官网","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0}
 
 ],
-
-  "lives": [ {
+"lives": [ {
 		"group": "CCTV",
 		"channels": [{
 			"name": "CCTV-1",
