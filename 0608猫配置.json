@@ -41,7 +41,7 @@ https://github.com/jyt0106/abcd.github.io/blob/main/0608%E7%8C%AB%E9%85%8D%E7%BD
 {"key":"腾讯官网","name":"腾讯官网","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0}
 
 ],
-  "lives": [ {
+  "lives": [  {
 		"group": "CCTV",
 		"channels": [{
 			"name": "CCTV-1",
@@ -201,8 +201,7 @@ https://github.com/jyt0106/abcd.github.io/blob/main/0608%E7%8C%AB%E9%85%8D%E7%BD
 {"name":"百视通电影3","urls":["http://39.135.55.105:6610/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1"]},
 {"name":"百视通电影4 8M720","urls":["http://39.135.55.105:6610/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1"]},
 {"name":"百视通电竞","urls":["http://39.135.55.105:6610/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1"]}
-]}, 
-],
+]}],
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
