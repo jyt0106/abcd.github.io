@@ -1,6 +1,6 @@
 {
 "spider":"https://gitea.com/william7651/cat/raw/branch/main/%E7%8C%AB%E5%BD%B1%E8%A7%86JAR%E9%85%8D%E7%BD%AE/0608%E7%8C%AB%E9%85%8D%E7%BD%AE.jar",
-"sites":[//https://raw.githubusercontent.com/jyt0106/abcd.github.io/main/0608%E7%8C%AB%E9%85%8D%E7%BD%AE.jar,
+"sites":[//https://raw.githubusercontent.com/jyt0106/abcd.github.io/main/0608%E7%8C%AB%E9%85%8D%E7%BD%AE.jar]
 {"key":"360_spider","name":"📺360(官源)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"csp_Alips","name":"🐱喵搜(只支持搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":""},
 {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
