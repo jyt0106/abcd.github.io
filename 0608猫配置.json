@@ -114,7 +114,7 @@
 "http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8"]
 		}],
 "parses": [
-{"name":"解析聚合","type":2,"url":"Demo"},
+{"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"web1","type":0,"url":"https://www.nxflv.com/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺","sohu","letv"]}}
