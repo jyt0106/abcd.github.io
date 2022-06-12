@@ -386,8 +386,8 @@
 {"name":"TVB为食台","urls":["http://iptv.tvfix.org/hls/tvbws.m3u8"]},
 {"name":"TVB星河(粤语)","urls":["http://iptv.tvfix.org/hls/tvbxh.m3u8","http://iptv.tvfix.org/hls/tvbxh2.m3u8"]},
 {"name":"TVB功夫台(粤语)","urls":["http://iptv.tvfix.org/hls/tvbkf.m3u8","http://iptv.tvfix.org/hls/tvbkf2.m3u8"]},
+]}
 ],
-
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
